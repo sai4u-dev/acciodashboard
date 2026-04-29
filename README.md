@@ -146,4 +146,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Built with ❤️ by [Your Name/Team]. If you have questions, open an issue or reach out!
+Built with ❤️ by Sai Narendra. If you have questions, open an issue or reach out!
