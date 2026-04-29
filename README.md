@@ -49,8 +49,8 @@ To get started with the project locally:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/admin-dashboard.git
-   cd admin-dashboard
+   git clone https://github.com/sai4u-dev/acciodashboard
+   cd acciodashboard
    ```
 
 2. **Install Dependencies**:
